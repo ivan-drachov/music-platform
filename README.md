@@ -2,9 +2,9 @@
 
 
 # In first terminal: 
-# cd server
-# npm run start:dev - запуск сервера
+cd server</br>
+npm run start:dev
 
 # In second terminal: 
-# cd client
-# npm run dev - запуск клиента
+cd client</br>
+npm run dev
